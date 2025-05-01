@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=30&letterSpacing=3px&duration=2500&pause=400&color=4493F8&center=true&width=720&lines=Ahoy+there+%2C+mate!!;I'm+Chalana+Devinda;Check+Out+My+LinkedIn+;Send+me++a+Telegram!;-+%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%82%88%E3%82%8A%E3%82%82%E3%81%AA%E3%81%9C%E3%82%92%E5%95%8F%E3%81%86+-;Have+a+Great+Day+%7C%CB%B6%CB%99%E1%B5%95%CB%99+)%EF%BE%89%EF%BE%9E" alt="Typing SVG" /></a>
 </h1>
 
-I work with both frontend and backend technologies to build functional applications. My experience spans across the development stack, with a natural inclination toward server-side solutions. I enjoy finding practical approaches to software challenges and implementing clean, effective code to solve real-world problems.
+Hey! , I am a software engineering undergraduate with a strong foundation in both front-end and back-end development to build functional applications. My experience spans across the development stack, with a natural inclination toward server-side solutions. I enjoy finding practical approaches to software challenges and implementing clean, effective code to solve real-world problems.
 
 ## 🛠️ Technologies & Tools
 
